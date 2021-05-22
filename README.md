@@ -1,2 +1,2 @@
 # simpleserver
-Simple node server with express, bodyparses and secure endpoints
+Simple http server with routes using node and express
