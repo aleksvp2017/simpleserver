@@ -1,0 +1,23 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "Simple Http server with routes and secure endpoitns using node and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksvp2017/simpleserver.git"
+  },
+  "author": "Aleksander Velozo Pascoal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksvp2017/simpleserver/issues"
+  },
+  "homepage": "https://github.com/aleksvp2017/simpleserver#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
